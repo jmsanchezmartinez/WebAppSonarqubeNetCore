@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://172.16.2.57:9000/dashboard?id=WebSonarqube/",
+  "Organization": null,
+  "ProjectKey": "WebSonarqube",
+  "ProjectName": "WebSonarqube",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXEHUdH529zOZuIqWFWk",
+      "ProfileTimestamp": "2020-03-23T12:15:34Z"
+    }
+  }
+}
