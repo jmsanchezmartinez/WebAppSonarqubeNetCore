@@ -1,0 +1,9 @@
+{
+pC:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.csutf-8{
+pC:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.csutf-8}
+rC:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.csutf-8„
+yC:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8—
+‹C:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8‚
+wC:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.csutf-8€
+uC:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.csutf-8ˆ
+}C:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.csutf-8

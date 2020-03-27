@@ -1,0 +1,1 @@
+C:\Jesus\TFS\VS2019\WebAppSonarqubeNetCore\.sonarqube\out\0

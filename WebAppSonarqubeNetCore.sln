@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppSonarqubeNetCore", "WebAppSonarqubeNetCore\WebAppSonarqubeNetCore.csproj", "{EBA8ADE3-5041-4706-AFF8-F0B421294485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{6D1E9319-1952-4B07-9125-B44D832608E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E35A943B-2BFD-40C2-A016-CF35FC2CC3E0}"
+	ProjectSection(SolutionItems) = preProject
+		RuleSet1.ruleset = RuleSet1.ruleset
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EBA8ADE3-5041-4706-AFF8-F0B421294485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBA8ADE3-5041-4706-AFF8-F0B421294485}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBA8ADE3-5041-4706-AFF8-F0B421294485}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBA8ADE3-5041-4706-AFF8-F0B421294485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1E9319-1952-4B07-9125-B44D832608E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1E9319-1952-4B07-9125-B44D832608E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1E9319-1952-4B07-9125-B44D832608E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1E9319-1952-4B07-9125-B44D832608E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

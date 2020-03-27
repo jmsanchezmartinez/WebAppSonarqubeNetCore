@@ -1,8 +1,8 @@
 {
-  "ServerUri": "http://172.16.2.57:9000/dashboard?id=WebSonarqube/",
+  "ServerUri": "http://172.16.2.57:9000/ ",
   "Organization": null,
-  "ProjectKey": "WebSonarqube",
-  "ProjectName": "WebSonarqube",
+  "ProjectKey": "SonarqubeTest",
+  "ProjectName": "SonarqubeTest",
   "Profiles": {
     "CSharp": {
       "ProfileKey": "AXEHUdH529zOZuIqWFWk",
