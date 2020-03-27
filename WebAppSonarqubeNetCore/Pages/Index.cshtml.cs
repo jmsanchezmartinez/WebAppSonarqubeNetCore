@@ -17,13 +17,20 @@ namespace WebAppSonarqubeNetCore.Pages
         {
             _logger = logger;
 
-            string text;
-
+             
         }
 
         public void OnGet()
         {
-            sfa;
+            try
+            {
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }
