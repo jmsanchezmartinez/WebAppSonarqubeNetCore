@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RuleSet Name="SonarQube - SonarqubeTest Sonar way" ToolsVersion="16.0">
-  <Include Path="..\.sonarlint\sonarqubetestcsharp.ruleset" Action="Default" />
+  <Include Path="..\.sonarlint\webappnetcoresonarcsharp.ruleset" Action="Default" />
   <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
     <Rule Id="CA1000" Action="Warning" />
     <Rule Id="CA1001" Action="Warning" />

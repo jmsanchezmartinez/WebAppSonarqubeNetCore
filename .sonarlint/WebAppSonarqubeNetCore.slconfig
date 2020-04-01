@@ -1,8 +1,8 @@
 {
-  "ServerUri": "http://172.16.2.57:9000/ ",
+  "ServerUri": "http://172.16.2.57:9000/",
   "Organization": null,
-  "ProjectKey": "SonarqubeTest",
-  "ProjectName": "SonarqubeTest",
+  "ProjectKey": "WebAppNetCoreSonar",
+  "ProjectName": "WebAppNetCoreSonar",
   "Profiles": {
     "CSharp": {
       "ProfileKey": "AXEHUdH529zOZuIqWFWk",

@@ -21,6 +21,16 @@ namespace WebApplication1.Pages
         {
             try
             {
+                string dadf;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+            try
+            {
 
             }
             catch (Exception)
